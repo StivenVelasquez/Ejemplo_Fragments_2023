@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/supermanFragment"
+        android:icon="@drawable/superman_icon"
+        android:title="@string/superman" />
+
+    <item
+        android:id="@+id/batmanFragment"
+        android:icon="@drawable/batman_icon"
+        android:title="@string/batman" />
+
+    <item
+        android:id="@+id/wonderWomanFragment"
+        android:icon="@drawable/wonder_woman_icon_color"
+        android:title="@string/wonder_woman" />
+
+    <item
+        android:id="@+id/flashFragment"
+        android:icon="@drawable/flash_icon"
+        android:title="@string/flash" />
+
+</menu>
